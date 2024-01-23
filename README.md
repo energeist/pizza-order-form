@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# ACS-3330 Lab 2 - pizza order form
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
