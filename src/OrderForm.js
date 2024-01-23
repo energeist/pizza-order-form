@@ -54,7 +54,7 @@ function OrderForm() {
             />
             Onions
           </label>
-          <button type="submit" value="Submit Order" />
+          <input type="submit" value="Submit Order"/>
         </form>
         <div className="order-summary">
           <h2>Order Summary</h2>
